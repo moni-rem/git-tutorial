@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 sure git main
-=======
-git morning
->>>>>>> monyTest
+
